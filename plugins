@@ -1,6 +1,6 @@
 {
     "name": "RaZerIsLoveHoe Repository",
-    "description": "Providers from all country",
+    "description": "English",
     "manifestVersion": 1,
     "pluginLists": [
         "https://raw.githubusercontent.com/RaZerIsLoveHoe/Plugin/main/repo.json"
